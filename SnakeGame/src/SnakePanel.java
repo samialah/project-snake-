@@ -10,5 +10,9 @@ public class SnakePanel extends JPanel implements ActionListener {
 		// TODO Auto-generated method stub
 		
 	}
+	
+	/* _______
+	 * 
+	 */
 
 }

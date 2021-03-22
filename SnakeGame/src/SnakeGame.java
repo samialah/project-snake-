@@ -5,6 +5,8 @@ public class SnakeGame {
 		// TODO Auto-generated method stub
 
 	}
+	
+	%%%%
 
 }
  
